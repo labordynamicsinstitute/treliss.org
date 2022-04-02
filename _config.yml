@@ -1,0 +1,51 @@
+
+url: https://treliss.org
+title: Transparency in the Research Lifecycle in the Social Sciences
+email: 
+date: 2022-01-01
+modified-date: 2022-01-01
+doi: 
+pdf-link: 
+isbn-book: 
+isbn-epub: 
+author: 
+  - Lars Vilhuber
+description: > # "Write an awesome description for your new site here. 
+  The Transparency in the Research Lifecycle in the Social Sciences (TReLiSS) network connects social scientists that have computational components in their research, providing guidance, communication, tutorials, workshops, training for researchers at every stage of their career.
+copyright: 'Copyright &copy; 2022 Vilhuber. '
+credits: 'Funding hopefully soon provided by the National Science Foundation.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: Home
+    icon: home
+    url: https://www.treliss.org
+  - title: twitter
+    url: https://twitter.com/larsvil
+  - title: github
+    url: https://github.com/labordynamicsinstitute
+
+collections:
+  - wg
+  - projects
+  - resources
+
+
+navigation:
+  - title: About
+    url: "#about"
+  - title: Projects
+    url: "#projects"
+  - title: "Steering Committee"
+    url: "#sc"
